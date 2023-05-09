@@ -292,7 +292,12 @@ section{
         width: 100%;
 background-color: #313131;
         }
-        
+
+      ul li { 
+          
+          padding: 5px 0px;
+
+}
         .headings{
             font-family: 'Ubuntu', sans-serif;
             text-align: center;
